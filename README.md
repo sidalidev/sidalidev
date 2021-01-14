@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working at Ector as a Fullstack Engineer
+- 🔭 I’m currently working at Decathlon as a Frontend Engineer
 - 🌱 I’m currently learning Svelte and Flutter
 - 👯 I’m looking to collaborate on some funny projects
 - 🤔 I’m looking for help with ...
