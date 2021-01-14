@@ -16,7 +16,7 @@
 ![Me coding, with my beret and some vegetables](https://github.com/sidbentifraouine/sidbentifraouine/blob/master/coding.svg)
 
 
-- 🔭 I’m currently working at Ector as a Fullstack Engineer
+- 🔭 I’m currently working at Decathlon as a Frontend Engineer
 - 🌱 I’m currently learning Svelte and Flutter
 - 👯 I’m looking to collaborate on some funny projects
 - 💬 Ask me about Pizza recipes 🍕
